@@ -1,4 +1,6 @@
-package org.arcadag;public class Main {
+package org.arcadag;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
